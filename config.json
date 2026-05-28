@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpelete",
+        "uuid": 33595856,
+        "checksum": "lcut6k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
